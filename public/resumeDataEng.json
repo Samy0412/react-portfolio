@@ -3,8 +3,8 @@
     "name": "Samantha Gadet",
     "occupation": "Full Stack Web developer",
     "description": "",
-    "image": "Naz.jpg",
-    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
+    "image": "Sam.JPG",
+    "bio": "Structural /mechanical engineer turned web developer, I have always loved building things, whether they are physical or not. I believe that a lot of what I have learned in my past career can translate to web development. I used to work on several scenic and artistic international projects requiring unusual creativity. Adaptability and responsiveness were essential in my position, and the atypical projects I have worked on required an openness to other disciplines and pushed me to develop my ability to learn autonomously and find solutions to problems. As I used to work with 3D modeling software with designers, I like receiving direct visual feedback of what I build, and that is the reason why I particularly enjoy front end development.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "samantha.gadet@gmail.com",
     "phone": "+1 514-623-3583",
@@ -30,29 +30,6 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
-    "education": [
-      {
-        "school": "University of Michigan - Dearborn",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
-      }
-    ],
-    "work": [
-      {
-        "company": "Clever Programmer",
-        "title": "JavaScript/Python Specialist",
-        "years": "May 2019 - Present",
-        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
-      },
-      {
-        "company": "NazaWEb",
-        "title": "Founder / Developer",
-        "years": "Jan 2019 - Present",
-        "description": "Helping businesses showing their best selves to clients."
-      }
-    ],
     "skills": [
       {
         "name": "ReactJs",
@@ -79,16 +56,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Zoom Clone with NodeJS",
-        "category": "Zoom Clone built with NodeJS",
-        "image": "zoom.jpg",
-        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+        "title": "CupOsugah",
+        "category": "",
+        "image": "CupOSugah.png",
+        "url": "https://cuposugah.netlify.app"
       },
       {
-        "title": "Robinhood Clone",
-        "category": "Robinhood Clone built with ReactJS",
-        "image": "robinhood.jpg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Spotify Clone",
+        "category": "",
+        "image": "Spotify-clone.png",
+        "url": "https://spotify-clone-sg.netlify.app"
       }
     ]
   },
